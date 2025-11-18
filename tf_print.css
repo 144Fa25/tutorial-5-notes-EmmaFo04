@@ -80,7 +80,7 @@ a{
 a::after{
    content: "("attr(href)")";
    font-weight: bold;
-   word-warp: break-word;
+   word-wrap: break-word;
 }
 
 
@@ -94,7 +94,7 @@ img, ol, ul{
 }
 p{
    orphans: 3;
-   windows: 3;
+   widows: 3;
 }
 
 
